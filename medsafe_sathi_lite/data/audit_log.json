@@ -1,0 +1,24 @@
+{
+  "9876543210": [
+    {
+      "ai_flag_summary": "This patient has been prescribed ibuprofen while also taking warfarin. The system has identified an increased risk of bleeding when these two medications are combined, as NSAIDs like ibuprofen can potentiate warfarin's anticoagulant effects. Please review this potential interaction.\n\nThis is an AI-generated flag for pharmacist review \u2014 it is not a final medical decision and must be confirmed or overridden by a human before any action is taken.",
+      "human_decision": "confirmed",
+      "note": "",
+      "timestamp": "2026-07-04 06:07"
+    },
+    {
+      "ai_flag_summary": "This flag highlights a potential interaction between the new Warfarin order and the patient's current Ibuprofen. The combination of NSAIDs like Ibuprofen with Warfarin increases the risk of bleeding. Please review this interaction.\n\nThis is an AI-generated flag for pharmacist review \u2014 it is not a final medical decision and must be confirmed or overridden by a human before any action is taken.",
+      "human_decision": "confirmed",
+      "note": "",
+      "timestamp": "2026-07-06 22:00"
+    }
+  ],
+  "9999999999": [
+    {
+      "ai_flag_summary": "The AI has flagged a potential interaction between Ibuprofen and the patient's Warfarin. Combining an NSAID like Ibuprofen with Warfarin is known to raise the risk of bleeding. Please review this information.\n\nThis is an AI-generated flag for pharmacist review \u2014 it is not a final medical decision and must be confirmed or overridden by a human before any action is taken.",
+      "human_decision": "confirmed",
+      "note": "",
+      "timestamp": "2026-07-06 22:05"
+    }
+  ]
+}

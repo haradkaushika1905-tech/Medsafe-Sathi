@@ -1,0 +1,51 @@
+{
+  "9876543210": [
+    {
+      "drug": "Warfarin",
+      "dose": "5mg",
+      "frequency": "once daily",
+      "allergies": "I am allergic to penicillin",
+      "doctor": "Dr. Mehta",
+      "plain_instructions": "Take warfarin 5 milligrams once a day to help thin your blood.",
+      "date": "2026-07-04 06:05"
+    },
+    {
+      "drug": "Ibuprofen",
+      "dose": "400mg",
+      "frequency": "twice daily",
+      "allergies": "none",
+      "doctor": "9Dr. Rao",
+      "plain_instructions": "Take 400 milligrams of Ibuprofen, two times a day, to help relieve your pain.",
+      "date": "2026-07-04 06:06"
+    },
+    {
+      "drug": "Warfarin",
+      "dose": "5mg",
+      "frequency": "",
+      "allergies": "I am allergic to penicillin",
+      "doctor": "Dr. Mehta",
+      "plain_instructions": "Take warfarin 5mg. Please check with your doctor or pharmacist for how often you should take this medication.",
+      "date": "2026-07-06 22:00"
+    }
+  ],
+  "9999999999": [
+    {
+      "drug": "Warfarin",
+      "dose": "5mg",
+      "frequency": "once daily",
+      "allergies": "I am allergic to penicillin",
+      "doctor": "Dr. Mehta",
+      "plain_instructions": "Take Warfarin 5 milligrams by mouth once every day.",
+      "date": "2026-07-06 22:04"
+    },
+    {
+      "drug": "Ibuprofen",
+      "dose": "400mg",
+      "frequency": "twice daily",
+      "allergies": "none",
+      "doctor": "Dr.Rao",
+      "plain_instructions": "Take one 400 milligram tablet of Ibuprofen two times each day.",
+      "date": "2026-07-06 22:05"
+    }
+  ]
+}

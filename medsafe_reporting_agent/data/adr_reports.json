@@ -1,0 +1,16 @@
+{
+  "4445556666": [
+    {
+      "report_text": "Patient ID: 4445556666\nSuspected Drug: Metformin\nDose: 500mg\nFrequency: twice daily\nPrescribing Doctor: Dr. Iyer\nDate Prescribed: 2026-07-06 17:51\nReaction Description: nausea and unusual tiredness\nReaction Onset: 2 days ago\nReport Date: 2024-05-16\nReal-World Evidence (FAERS): FDA FAERS 2026 Q1: 1,293 real reported cases with Metformin as primary suspect drug. Top reactions: lactic acidosis (372 reports), acute kidney injury (194), hypoglycaemia (88), drug interaction explicitly reported (84), nausea (78).\n\nA stored prescription record for Metformin was found for this patient.",
+      "status": "draft_pending_human_review",
+      "created": "2026-07-06 17:52"
+    }
+  ],
+  "5551234567": [
+    {
+      "report_text": "Patient ID: 5551234567\nSuspected Drug: Metformin\nDose: Not available from stored records\nFrequency: Not available from stored records\nPrescribing Doctor: Not available from stored records\nDate Prescribed: Not available from stored records\nReaction Description: severe fatigue and stomach pain\nReaction Onset: 1 week ago\nReport Date: 2024-05-16\nReal-World Evidence (FAERS): FDA FAERS 2026 Q1: 1,293 real reported cases with Metformin as primary suspect drug. Top reactions: lactic acidosis (372 reports), acute kidney injury (194), hypoglycaemia (88), drug interaction explicitly reported (84), nausea (78).\n\nNo stored prescription record was found for this drug. The report relies on patient-reported details only.",
+      "status": "draft_pending_human_review",
+      "created": "2026-07-06 17:54"
+    }
+  ]
+}
